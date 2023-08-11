@@ -6,3 +6,11 @@ table{
 font{
 	color: white;
 }
+#table1{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#list{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
